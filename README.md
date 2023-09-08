@@ -1,8 +1,8 @@
 # youtube-backend
 
 [Spring boot setting](#Spring-boot-setting)
-[Encoding 처리](#Spring-boot-한글-encoding-처리-하는-방법)
-[JPA](#JPA-(Java Persistence API))
+[Encoding 처리](##Spring-boot-한글-encoding-처리-하는-방법)
+[JPA](##JPA-(Java-Persistence-API))
 
 # Spring boot setting
 
